@@ -17,16 +17,27 @@ public class Ch10_My {
         //     System.out.println("The number is Negative");
         // }
 
-        System.out.print("Checking odd or even: ");
-        int num = sc.nextInt();
-        if (num % 2 == 0 ) {
-            System.out.println("The number is Even");
-        } else {
-            System.out.println("The number is Odd");
-        }
+        // System.out.print("Checking odd or even: ");
+        // int num = sc.nextInt();
+        // if (num % 2 == 0 ) {
+        //     System.out.println("The number is Even");
+        // } else {
+        //     System.out.println("The number is Odd");
+        // }
 
 
+        // // checking largest number between a and b
+        // int a = 50;
+        // int b = 20;
+        
+        // if (a >= b ) {
+        //     System.out.println("A is largest number ");
+        // } else {
+        //     System.out.println("B is largest number ");
+        // }
 
+
+        
     
     }
 }
